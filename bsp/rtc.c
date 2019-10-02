@@ -312,7 +312,7 @@ void clock_demo(void)
 				LCD_ShowString(165,50,200,16,16,"Tuesday   ");
 				break;
 			case 3:
-				LCD_ShowString(65,50,200,16,16, "Wednesday ");
+				LCD_ShowString(165,50,200,16,16, "Wednesday ");
 				break;
 			case 4:
 				LCD_ShowString(165,50,200,16,16,"Thursday  ");
